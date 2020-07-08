@@ -1,3 +1,3 @@
 # Análisis OpenData
 
-Análisis de pruebas de APIs OpenData... sin documentar, sólo pocs
+Análisis de pruebas de APIs OpenData... Sin documentar, sólo pocs
